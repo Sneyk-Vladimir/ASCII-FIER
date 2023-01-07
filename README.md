@@ -57,3 +57,5 @@ The step size is the number at the end, which is currently set to '8'.
 You can also try using a different character set to represent the pixel values (currently set to 'A')
 
 You can use characters from ' ' (space) to '~' instead of 'A' to 'Z'.
+
+###### oh yeah and some of this was made using openai
